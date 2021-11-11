@@ -1,0 +1,3 @@
+https://github.com/KlukvaMors/basic_stat/blob/main/%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82.ipynb
+https://gallery.shinyapps.io/dist_calc/
+https://gallery.shinyapps.io/CLT_mean/
