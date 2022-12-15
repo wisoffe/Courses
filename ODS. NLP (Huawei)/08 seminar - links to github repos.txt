@@ -1,0 +1,5 @@
+Statistical Machine Translation seminar:
+https://github.com/huawei-university/seminars/tree/master/8a-seminar-SMT
+
+Neural Machine Translation seminar:
+https://github.com/huawei-university/seminars/tree/master/8-seminar-NMT
