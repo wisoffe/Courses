@@ -1,0 +1,2 @@
+Transformers (1. Quora question pairs classification with BERT, 2. Dialogue generation with GPT2):
+https://github.com/huawei-university/seminars/tree/master/9-seminar-Transformers
