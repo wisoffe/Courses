@@ -1,0 +1,11 @@
+Postgres: a better message queue than Kafka?
+https://dagster.io/blog/skip-kafka-use-postgres-message-queue
+
+RabbitMQ tutorials
+https://www.rabbitmq.com/getstarted.html
+
+Introduction to Apache Kafka
+https://kafka.apache.org/intro
+
+Example of using Yandex Message Queue in Python
+https://cloud.yandex.com/en/docs/message-queue/instruments/python
