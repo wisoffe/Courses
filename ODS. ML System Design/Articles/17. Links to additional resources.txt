@@ -1,0 +1,2 @@
+Шаблон Reliable ML для ML System Design Doc – GitHub Repo https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru
+Канал Reliable ML: https://t.me/reliable_ml
